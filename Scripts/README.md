@@ -6,7 +6,7 @@
 Configure an ArcGIS Python environment to include GeoPandas and Rasterio before trying the Python scripts. You can add GeoPandas, Rasterio, and other packages to a default ArcGIS Python environment with the [Deep Learning Libraries Installers for ArcGIS](https://github.com/Esri/deep-learning-frameworks) or create a new environment. If you want to create a new Python environment through ArcGIS Pro:
 
 1. **Clone the default environment**\
-Settings &rarr; Package Manager &rarr; Enviornment Manager &rarr; Clone arcgispro-py3 &rarr; Save the enviornment to ..\ESRI\conda\envs or ..\anaconda3\envs
+Settings &rarr; Package Manager &rarr; Environment Manager &rarr; Clone arcgispro-py3 &rarr; Save the environment to ..\ESRI\conda\envs or ..\anaconda3\envs
 
 ![](/Scripts/ArcGIS_Env_Setup/Clone_Env.png)
 
